@@ -27,7 +27,7 @@ example4 = False
 Rules of naming a variable:
 1. Don't use numbers as the first character in your variable.
 2. Don't use special characters to be in the name. Not including underscores.
-3. Don't use reserved keyword in python like the print command you learned earlier.
+3. Don't use reserved keywords in python like the print command you learned earlier.
 
 If you made it this far you might be wondering, how do i even get or install python? To install python follow these steps:
 1. Go to [python.org/downloads](https://python.org/downloads)
